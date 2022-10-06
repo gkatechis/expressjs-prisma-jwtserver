@@ -1,0 +1,1 @@
+# Example JWT server, written in ExpressJS with a SQLite database, using Prisma as the ORM
